@@ -1,7 +1,8 @@
 # morse_code_jailbreak
 
 
-# ~replication of https://arxiv.org/html/2310.06474v3
+# ~replication of 'Multilingual Jailbreak Challenges in Large Language Models'
+* https://arxiv.org/html/2310.06474v3
 
 
 
