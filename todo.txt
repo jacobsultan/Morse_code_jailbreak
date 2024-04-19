@@ -1,5 +1,7 @@
-* comments for morse code
 * follow paper to replicate it
-* how to save already completed tables
-* analytics results
+* analyse results
  
+
+
+* comments for morse code
+* how to save already completed tables
