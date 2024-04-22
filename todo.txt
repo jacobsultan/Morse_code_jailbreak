@@ -1,4 +1,9 @@
 * follow paper to replicate it
+
+* try shifting each left one forward
+
+
+
 * analyse results
  
 

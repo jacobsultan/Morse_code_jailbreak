@@ -29,6 +29,7 @@ def encrypt(message):
 def decrypt(message):
     # check if its a filled out entry
     if pd.notnull(message):
+        message = message.lower()
         # some messages aren't responded in morse so first we check that 
         if not is_morse(message):
             return message
