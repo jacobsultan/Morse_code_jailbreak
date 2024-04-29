@@ -4,6 +4,9 @@
 ## ~replication of 'Multilingual Jailbreak Challenges in Large Language Models'
 * https://arxiv.org/html/2310.06474v3
 
+* multijail.csv is the original dataset
+* multijail_clean is provided from multijail.csv being ran through data_cleaning.ipynb
+
 
 
 ## Instructions
