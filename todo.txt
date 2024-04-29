@@ -10,3 +10,6 @@
 
 * comments for morse code
 * how to save already completed tables
+
+
+* pip freeze > requirements.txt
