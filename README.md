@@ -27,6 +27,7 @@
 # Conclusions from project
 * Using gpt 4 to evaluate responses didn't prove to be accurate 
 ** ~80% agreement with my own evaluations (some may be accountted for by ammbiguity of the different criterian to classify as 'safe'/'unsafe' but others were very clearly miscategorized by the model)
+* Paper replicated's metrics to show improvement in safety from their fine-tuning cannot be trusted due to these discrepencies
 * Translating an adversarial prompt into morse code (and telling the model to only respond in morse) is a very easy jailbreak to receive unsafe responses
 ** ~30% unsafe responses when asked in morse code compared to ~1% when asked in english 
 *** most of these unsafe responses from the english questions seem to be from unkown racial slurs and missing the harmful intentions in the questions
