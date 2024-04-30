@@ -6,7 +6,7 @@
 
 * multijail.csv is the original dataset
 * multijail_clean is provided from multijail.csv being ran through data_cleaning.ipynb
-
+* evaluated_data.csv is the dataframe including all llm responses and human evaluations
 
 
 ## Instructions
@@ -15,3 +15,9 @@
 * pip install -r requirements.txt
 * create '.env' file
 * In '.env' file create a variable ' OPENAI_API_KEY= "[your key]" '
+
+
+
+## Costs to run for self
+* ~ 5$ through gpt4 turbo
+* ~ 2 hours runtime 
