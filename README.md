@@ -34,3 +34,8 @@
 * When the model responded in english to a morse question, it was far less likely to be an unsafe response
 ** 38% of morse questions answered in morse were deemed as unsafe compared to 0 out of the 65 questions in morse that were answered in english being deemed as unsafe 
 * While some tags seem to be more resistant to the morse code jailbreak like 'Theft' having 26 safe responses to 1 unsafe response compared to 'Discrimination & injustice' which had 24 safe responses to 23 unsafe responses, the sample size is quite small and could just be skewed by how deceptive the adversarial prompts are
+
+
+
+# Looks like a week after I finished up with this project the uk AI Safety institute open-sourced their own evaluations pipepline
+https://www.gov.uk/government/news/ai-safety-institute-releases-new-ai-safety-evaluations-platform
